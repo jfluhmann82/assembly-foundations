@@ -1,4 +1,5 @@
 ; First Exercise, modified to exit with code 33
+default rel
 global _start
 
 section .text
